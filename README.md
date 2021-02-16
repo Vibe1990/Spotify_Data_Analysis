@@ -10,3 +10,9 @@ Stemming from a 10-minute car judgmental rant from my dad about my playlist choi
 * Explored changes in audio and track features of songs based on year of release.  
 * Comparison of these features from tracks of Yesterday's Greats with Today's current top artists.
 * A quick look at some of the artists whose content we are consuming today. 
+
+
+
+## PROJECT 2: Prediction Modelling of Popularity Scores on Spotify  
+
+An exercise on to flex my predictive modeling skills using the same data set to determine the extent to which audio & track features impact popularity scores that included regression models and decision trees. 
