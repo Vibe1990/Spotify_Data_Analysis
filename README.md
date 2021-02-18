@@ -5,7 +5,7 @@ Two projects created using a [data set from Kaggle](https://www.kaggle.com/yamae
 
 ## PROJECT 1: Time Series Analysis of Audio & Track Features Based on Year of Release 
 
-Stemming from a 10-minute car judgmental rant from my dad about my playlist choice, I examined the audio qualities of tracks across the years to see if he's right about today's music. 
+Stemming from a 10-minute judgmental rant during a car ride from my dad about my playlist choice, I examined the audio qualities of tracks across the years to see if he's right about today's music. 
 
 * Explored changes in audio and track features of songs based on year of release.  
 * Comparison of these features from tracks of Yesterday's Greats with Today's current top artists.
