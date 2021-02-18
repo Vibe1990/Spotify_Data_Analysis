@@ -1,6 +1,6 @@
 # Spotify_Data_Analysis
 
-Two projects created using a [data set from Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) of over 160,000 tracks released from 1920 - 2020 that contains data pertaining to [audio features of a song](https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-features)
+Two projects created using a [data set from Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) of over 160,000 tracks released from 1921 - 2020 that contains data pertaining to [audio features of a song](https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-features)
 
 
 ## PROJECT 1: Time Series Analysis of Audio & Track Features Based on Year of Release 
