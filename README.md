@@ -18,9 +18,9 @@ See the article [here](https://community.dataquest.io/t/using-data-analysis-to-s
 
 Looking to flex some of my supervised learning muscle and use several approaches to predict popularity scores of tracks on Spotify.  The approaches that were taken included: 
 
-    1) Generalized Linear Models 
-    2) Regression Trees
-    3) Generalized Additive Models 
-    4) k-Nearest Neighbours 
+  1) Generalized Linear Models 
+  2) Regression Trees
+  3) Generalized Additive Models 
+  4) k-Nearest Neighbours 
 
-Findings: Overall, audio + track features alone are a poor model predictor for popularity scores.
+Accuracy measure: RMSE Score 
